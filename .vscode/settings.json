@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.eta": "eta",
+    "algorithm": "cpp"
+  }
+}
